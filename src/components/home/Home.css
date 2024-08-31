@@ -1,0 +1,54 @@
+/* Home.css */
+.home {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .home-header {
+    margin-bottom: 2rem;
+  }
+  
+  .home-header h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .home-header .home-image {
+    width: 150px; /* Adjust size as needed */
+    height: 150px; /* Adjust size as needed */
+    border-radius: 50%; /* Circular image */
+    object-fit: cover; /* Ensures the image fits within the circle */
+    margin-top: 1rem;
+  }
+  
+  .home-intro {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #555;
+  }
+  
+  .home-intro ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  
+  .home-intro li {
+    margin: 0.5rem 0;
+    font-size: 1.1rem;
+  }
+  
+  .home-intro a {
+    color: #ff6347; /* Highlight color for links */
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .home-intro a:hover {
+    text-decoration: underline;
+  }
+  

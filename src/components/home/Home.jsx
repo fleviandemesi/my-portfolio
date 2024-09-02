@@ -7,7 +7,7 @@ const Home = () => {
     <div className="home">
       <header className="home-header">
         <h1>Hello, I'm Flevian Demesi</h1>
-        <img src="/images/coat-of-arms.jpg" alt="Coat of Arms" className="home-image" />
+        {/* <img src="/images/coat-of-arms.jpg" alt="Coat of Arms" className="home-image" /> */}
         <p>Welcome to my portfolio!</p>
       </header>
       <section className="home-intro">
